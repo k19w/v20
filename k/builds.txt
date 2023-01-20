@@ -1,6 +1,6 @@
 name="eminence kodi 20"
 version="1.0"
-url="https://www.dropbox.com/s/lnvh0l0n58hw50y/enimcekds20012023.zip?dl=1"
+url="https://www.dropbox.com/s/jatd1zhoyexggvs/enimcekds.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="19"
