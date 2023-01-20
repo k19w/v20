@@ -10,4 +10,4 @@ fanart=""https://ia601401.us.archive.org/35/items/plugin.program.openwizard-mast
 preview="http://"
 adult="no"
 info="http://"
-description="kodiskinew bate 20/01/2023 בהמשך יהיו עדכונים תהנו"
+description="kodiskinew bate  update 21/01/2023 בהמשך יהיו עדכונים תהנו"
